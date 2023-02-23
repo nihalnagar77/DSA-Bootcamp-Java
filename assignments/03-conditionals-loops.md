@@ -30,6 +30,7 @@
 25. Take integer inputs till the user enters 0 and print the largest number from
 all.
 26. Addition Of Two Numbers
+27. Addition of digits of a number
 
 ### Intermediate Java Programs
 1. Factorial Program In Java
